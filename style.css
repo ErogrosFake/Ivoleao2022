@@ -38,7 +38,7 @@ p {
 
 #dxd {
     height: 500px;
-    align-items: center;
+    ;
 }
 
 #trinity {
@@ -57,6 +57,6 @@ p {
     height: 500px;
 }
 
-#teste {
-    background: rgb(10 , 14 , 25);
+#div {
+    text-align: center;
 }
