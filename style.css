@@ -16,6 +16,10 @@ h2 {
     text-align: center;
 }
 
+p {
+    color: white;
+}
+
 #dxd {
     height: 250px;
 }
