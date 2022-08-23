@@ -1,5 +1,5 @@
 body {
-    background: rgb(223, 87, 87);
+    background: rgb(240, 23, 23);
 }
 
 h1 {
@@ -12,4 +12,8 @@ h1 {
 
 h2 {
     text-align: center;
+}
+
+.dxd {
+    height: 250px;
 }
