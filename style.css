@@ -1,7 +1,8 @@
 body {
     background: rgb(10 , 14 , 25);
     font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
-    font-size: 20px;    
+    font-size: 20px;
+    margin: auto;
 }
 
 h1 {
@@ -26,6 +27,7 @@ h3 {
 }
 
 p {
+    text-align: left;
     text-align: justify;
     color: #f4f4f4;
     font-family: roboto,Sans-serif;
@@ -56,6 +58,4 @@ p {
 
 #teste {
     background: rgb(10 , 14 , 25);
-    text-align: left;
-    text-align: justify;
 }
