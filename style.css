@@ -8,7 +8,6 @@ body {
 h1 {
     text-align: center;
     color: white;
-    margin: 50px;
 }
 
 #banner {
@@ -20,13 +19,11 @@ h1 {
 h2 {
     text-align: center;
     color: white;
-    margin: 50px;
 }
 
 h3 {
     color: white;
     text-align: center;
-    margin: 50px;
 }
 
 p {
@@ -41,22 +38,27 @@ p {
 
 #dxd {
     height: 500px;
+    margin: 50px;
 }
 
 #trinity {
     height: 500px;
+    margin: 50px;
 }
 
 #hotd {
     height: 500px;
+    margin: 50px;
 }
 
 #shinmai {
     height: 500px;
+    margin: 50px;
 }
 
 #nogame {
     height: 500px;
+    margin: 50px;
 }
 
 #rosa {
