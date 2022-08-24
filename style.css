@@ -18,11 +18,11 @@ h1 {
 
 h2 {
     text-align: center;
-    color: white;
+    color: #ff0048;
 }
 
 h3 {
-    color: white;
+    color: #ff0048;
     text-align: center;
 }
 
@@ -61,6 +61,6 @@ p {
     border-radius: 50px;
 }
 
-#rosa {
+strong {
     color: #ff0048;
 }
