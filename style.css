@@ -23,7 +23,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: black;
+    color: rgb(247, 247, 247);
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;    
