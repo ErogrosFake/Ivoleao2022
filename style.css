@@ -1,27 +1,69 @@
-.body {
+html {
+	background-color: rgb(10 , 14 , 55);
+}
+
+header {
+	background: rgb(10 , 14 , 25);
+	padding: 20px 0;
+}
+
+body {
     background: rgb(10 , 14 , 25);
     font-family: sans-serif;
     font-size: 20px;
     margin: 50px;
 }
 
-#strong {
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: aliceblue;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color:  #C78C19;
+	text-decoration: none;
+}
+
+div {
+	padding: 50px 0;
+}
+
+strong {
     color: #ff0048;
 }
 
-#h1 {
+h1 {
     color: #ff0048;
 }
 
-#h2 {
+h2 {
     color: #ff0048;
 }
 
-#h3 {
+h3 {
     color: #ff0048;
 }
 
-#p {
+p {
     text-align: left;
     text-align: justify;
     color: aliceblue;
