@@ -166,6 +166,10 @@ td, th {
 	padding: 8px 15px;
 }
 
+label {
+	color: aliceblue;
+}
+
 #banner {
 	width: 100%;
 	height: 250px;
