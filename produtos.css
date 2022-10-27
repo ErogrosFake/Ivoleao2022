@@ -190,6 +190,7 @@ form label, form p {
 #fotosprodutos {
 	height: 300px;
 	width: 250px;
+	border-radius: 50px;
 }
 
 #letras {
