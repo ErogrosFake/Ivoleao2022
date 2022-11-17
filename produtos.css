@@ -2,6 +2,10 @@ html {
 	background-color: rgb(10 , 14 , 55);
 }
 
+body {
+	margin: 0 auto;
+}
+
 header {
 	background: rgb(10 , 14 , 25);
 	padding: 20px 0;
