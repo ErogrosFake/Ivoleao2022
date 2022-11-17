@@ -129,7 +129,8 @@ footer {
 }
 
 main {
- 	margin: 0 auto;
+ 	width: 940px;
+	margin: 0 auto;
 }
 
 form {
