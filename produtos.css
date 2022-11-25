@@ -1,5 +1,5 @@
 html {
-	background-color: rgb(10 , 14 , 55);
+	background: linear-gradient(rgb(11, 10, 61),rgb(221, 5, 185));
 }
 
 body {
@@ -7,7 +7,6 @@ body {
 }
 
 header {
-	background: rgb(10 , 14 , 25);
 	padding: 20px 0;
 }
 
@@ -179,6 +178,11 @@ form label, form p {
 	display: block;
 	font-size: 20px;
 	margin: 0 0 10px;
+}
+
+.logo-anima {
+	width: 200px;
+	height: 200px;
 }
 
 #banner {
